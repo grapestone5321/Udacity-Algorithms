@@ -4,6 +4,12 @@ Udacity-Intro_to_Algorithms
 
 ## Instructor: Michael Littman
 
+Michael Lederman Littman (born August 30, 1966) is a computer scientist. 
+
+He works mainly in reinforcement learning, but has done work in machine learning, game theory, computer networking, partially observable Markov decision process solving, computer solving of analogy problems and other areas. 
+
+He is currently a professor of computer science at Brown University.
+
 -------
 
 ## Syllabus
