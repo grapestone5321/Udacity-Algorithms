@@ -293,111 +293,110 @@ Designed to provide a comprehensive introduction to data structures and algorith
       12.1.2 Basic Implementation . . . . . . . . . . . . . . . . . . . . . 340
       12.1.3 Improved Implementation . . . . . . . . . . . . . . . . . . . 342
       12.1.4 Efficiency Analysis . . . . . . . . . . . . . . . . . . . . . . . 345
-12.2 Quick Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 347
-12.2.1 Algorithm Description . . . . . . . . . . . . . . . . . . . . . 348
-12.2.2 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 349
-12.2.3 Efficiency Analysis . . . . . . . . . . . . . . . . . . . . . . . 353
-12.3 How Fast Can We Sort? . . . . . . . . . . . . . . . . . . . . . . . . 353
-12.4 Radix Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 354
-12.4.1 Algorithm Description . . . . . . . . . . . . . . . . . . . . . 354
-12.4.2 Basic Implementation . . . . . . . . . . . . . . . . . . . . . 356
-12.4.3 Efficiency Analysis . . . . . . . . . . . . . . . . . . . . . . . 358
-12.5 Sorting Linked Lists . . . . . . . . . . . . . . . . . . . . . . . . . . 358
-12.5.1 Insertion Sort . . . . . . . . . . . . . . . . . . . . . . . . . . 359
-12.5.2 Merge Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . 362
-Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 367
-Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 368
-Chapter 13: Binary Trees 369
-13.1 The Tree Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . 369
-13.2 The Binary Tree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 373
-13.2.1 Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . 373
-13.2.2 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 375
-13.2.3 Tree Traversals . . . . . . . . . . . . . . . . . . . . . . . . . 376
-13.3 Expression Trees . . . . . . . . . . . . . . . . . . . . . . . . . . . . 380
-13.3.1 Expression Tree Abstract Data Type . . . . . . . . . . . . . 382
-13.3.2 String Representation . . . . . . . . . . . . . . . . . . . . . 383
-13.3.3 Tree Evaluation . . . . . . . . . . . . . . . . . . . . . . . . . 384
-13.3.4 Tree Construction . . . . . . . . . . . . . . . . . . . . . . . 386
-13.4 Heaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 390
-13.4.1 Definition . . . . . . . . . . . . . . . . . . . . . . . . . . . . 391
-CONTENTS xi
-13.4.2 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 395
-13.4.3 The Priority Queue Revisited . . . . . . . . . . . . . . . . . 398
-13.5 Heapsort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
-13.5.1 Simple Implementation . . . . . . . . . . . . . . . . . . . . 400
-13.5.2 Sorting In Place . . . . . . . . . . . . . . . . . . . . . . . . 400
-13.6 Application: Morse Code . . . . . . . . . . . . . . . . . . . . . . . . 404
-13.6.1 Decision Trees . . . . . . . . . . . . . . . . . . . . . . . . . 405
-13.6.2 The ADT Definition . . . . . . . . . . . . . . . . . . . . . . . 406
-Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 407
-Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410
-Chapter 14: Search Trees 411
-14.1 The Binary Search Tree . . . . . . . . . . . . . . . . . . . . . . . . 412
-14.1.1 Searching . . . . . . . . . . . . . . . . . . . . . . . . . . . . 413
-14.1.2 Min and Max Values . . . . . . . . . . . . . . . . . . . . . . 415
-14.1.3 Insertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 417
-14.1.4 Deletions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 420
-14.1.5 Efficiency of Binary Search Trees . . . . . . . . . . . . . . . 425
-14.2 Search Tree Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . 427
-14.3 AVL Trees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 428
-14.3.1 Insertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 430
-14.3.2 Deletions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
-14.3.3 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 435
-14.4 The 2-3 Tree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 440
-14.4.1 Searching . . . . . . . . . . . . . . . . . . . . . . . . . . . . 442
-14.4.2 Insertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 443
-14.4.3 Efficiency of the 2-3 Tree . . . . . . . . . . . . . . . . . . . 449
-Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 451
-Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 452
-Appendix A: Python Review 453
-A.1 The Python Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . 453
-A.2 The Basics of Python . . . . . . . . . . . . . . . . . . . . . . . . . 454
-A.2.1 Primitive Types . . . . . . . . . . . . . . . . . . . . . . . . . 455
-A.2.2 Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . 456
-A.2.3 Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . 457
-A.2.4 Arithmetic Operators . . . . . . . . . . . . . . . . . . . . . . 458
-A.2.5 Logical Expressions . . . . . . . . . . . . . . . . . . . . . . 459
-A.2.6 Using Functions and Methods . . . . . . . . . . . . . . . . 461
-A.2.7 Standard Library . . . . . . . . . . . . . . . . . . . . . . . . 462
-A.3 User Interaction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463
-A.3.1 Standard Input . . . . . . . . . . . . . . . . . . . . . . . . . 463
-xii CONTENTS
-A.3.2 Standard Output . . . . . . . . . . . . . . . . . . . . . . . . 464
-A.4 Control Structures . . . . . . . . . . . . . . . . . . . . . . . . . . . 467
-A.4.1 Selection Constructs . . . . . . . . . . . . . . . . . . . . . . 467
-A.4.2 Repetition Constructs . . . . . . . . . . . . . . . . . . . . . 469
-A.5 Collections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 472
-A.5.1 Strings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 472
-A.5.2 Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 473
-A.5.3 Tuples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 475
-A.5.4 Dictionaries . . . . . . . . . . . . . . . . . . . . . . . . . . . 475
-A.6 Text Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 477
-A.6.1 File Access . . . . . . . . . . . . . . . . . . . . . . . . . . . 477
-A.6.2 Writing to Files . . . . . . . . . . . . . . . . . . . . . . . . . 478
-A.6.3 Reading from Files . . . . . . . . . . . . . . . . . . . . . . . 479
-A.7 User-Defined Functions . . . . . . . . . . . . . . . . . . . . . . . . 480
-A.7.1 The Function Definition . . . . . . . . . . . . . . . . . . . . 480
-A.7.2 Variable Scope . . . . . . . . . . . . . . . . . . . . . . . . . 483
-A.7.3 Main Routine . . . . . . . . . . . . . . . . . . . . . . . . . . 483
-Appendix B: User-Defined Modules 485
-B.1 Structured Programs . . . . . . . . . . . . . . . . . . . . . . . . . . 485
-B.2 Namespaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486
-Appendix C: Exceptions 489
-C.1 Catching Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . 489
-C.2 Raising Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . . 490
-C.3 Standard Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . 491
-C.4 Assertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 491
-Appendix D: Classes 493
-D.1 The Class Definition . . . . . . . . . . . . . . . . . . . . . . . . . . 493
-D.1.1 Constructors . . . . . . . . . . . . . . . . . . . . . . . . . . 494
-D.1.2 Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . 495
-D.1.3 Using Modules . . . . . . . . . . . . . . . . . . . . . . . . . 497
-D.1.4 Hiding Attributes . . . . . . . . . . . . . . . . . . . . . . . . 498
-D.2 Overloading Operators . . . . . . . . . . . . . . . . . . . . . . . . . 500
-D.3 Inheritance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 502
-D.3.1 Deriving Child Classes . . . . . . . . . . . . . . . . . . . . . 503
-D.3.2 Creating Class Instances . . . . . . . . . . . . . . . . . . . 504
-D.3.3 Invoking Methods . . . . . . . . . . . . . . . . . . . . . . . 505
-D.4 Polymorphism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507
+      12.2 Quick Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 347
+      12.2.1 Algorithm Description . . . . . . . . . . . . . . . . . . . . . 348
+      12.2.2 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 349
+      12.2.3 Efficiency Analysis . . . . . . . . . . . . . . . . . . . . . . . 353
+      12.3 How Fast Can We Sort? . . . . . . . . . . . . . . . . . . . . . . . . 353
+      12.4 Radix Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 354
+      12.4.1 Algorithm Description . . . . . . . . . . . . . . . . . . . . . 354
+      12.4.2 Basic Implementation . . . . . . . . . . . . . . . . . . . . . 356
+      12.4.3 Efficiency Analysis . . . . . . . . . . . . . . . . . . . . . . . 358
+      12.5 Sorting Linked Lists . . . . . . . . . . . . . . . . . . . . . . . . . . 358
+      12.5.1 Insertion Sort . . . . . . . . . . . . . . . . . . . . . . . . . . 359
+      12.5.2 Merge Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . 362
+      Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 367
+      Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 368
+      Chapter 13: Binary Trees 369
+      13.1 The Tree Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . 369
+      13.2 The Binary Tree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 373
+      13.2.1 Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . 373
+      13.2.2 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 375
+      13.2.3 Tree Traversals . . . . . . . . . . . . . . . . . . . . . . . . . 376
+      13.3 Expression Trees . . . . . . . . . . . . . . . . . . . . . . . . . . . . 380
+      13.3.1 Expression Tree Abstract Data Type . . . . . . . . . . . . . 382
+      13.3.2 String Representation . . . . . . . . . . . . . . . . . . . . . 383
+      13.3.3 Tree Evaluation . . . . . . . . . . . . . . . . . . . . . . . . . 384
+      13.3.4 Tree Construction . . . . . . . . . . . . . . . . . . . . . . . 386
+      13.4 Heaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 390
+      13.4.1 Definition . . . . . . . . . . . . . . . . . . . . . . . . . . . . 391
+      13.4.2 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 395
+      13.4.3 The Priority Queue Revisited . . . . . . . . . . . . . . . . . 398
+      13.5 Heapsort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+      13.5.1 Simple Implementation . . . . . . . . . . . . . . . . . . . . 400
+      13.5.2 Sorting In Place . . . . . . . . . . . . . . . . . . . . . . . . 400
+      13.6 Application: Morse Code . . . . . . . . . . . . . . . . . . . . . . . . 404
+      13.6.1 Decision Trees . . . . . . . . . . . . . . . . . . . . . . . . . 405
+      13.6.2 The ADT Definition . . . . . . . . . . . . . . . . . . . . . . . 406
+      Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 407
+      Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410
+      Chapter 14: Search Trees 411
+      14.1 The Binary Search Tree . . . . . . . . . . . . . . . . . . . . . . . . 412
+      14.1.1 Searching . . . . . . . . . . . . . . . . . . . . . . . . . . . . 413
+      14.1.2 Min and Max Values . . . . . . . . . . . . . . . . . . . . . . 415
+      14.1.3 Insertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 417
+      14.1.4 Deletions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 420
+      14.1.5 Efficiency of Binary Search Trees . . . . . . . . . . . . . . . 425
+      14.2 Search Tree Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . 427
+      14.3 AVL Trees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 428
+      14.3.1 Insertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 430
+      14.3.2 Deletions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
+      14.3.3 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 435
+      14.4 The 2-3 Tree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 440
+      14.4.1 Searching . . . . . . . . . . . . . . . . . . . . . . . . . . . . 442
+      14.4.2 Insertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 443
+      14.4.3 Efficiency of the 2-3 Tree . . . . . . . . . . . . . . . . . . . 449
+      Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 451
+      Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 452
+      Appendix A: Python Review 453
+      A.1 The Python Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . 453
+      A.2 The Basics of Python . . . . . . . . . . . . . . . . . . . . . . . . . 454
+      A.2.1 Primitive Types . . . . . . . . . . . . . . . . . . . . . . . . . 455
+      A.2.2 Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . 456
+      A.2.3 Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . 457
+      A.2.4 Arithmetic Operators . . . . . . . . . . . . . . . . . . . . . . 458
+      A.2.5 Logical Expressions . . . . . . . . . . . . . . . . . . . . . . 459
+      A.2.6 Using Functions and Methods . . . . . . . . . . . . . . . . 461
+      A.2.7 Standard Library . . . . . . . . . . . . . . . . . . . . . . . . 462
+      A.3 User Interaction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463
+      A.3.1 Standard Input . . . . . . . . . . . . . . . . . . . . . . . . . 463
+      A.3.2 Standard Output . . . . . . . . . . . . . . . . . . . . . . . . 464
+      A.4 Control Structures . . . . . . . . . . . . . . . . . . . . . . . . . . . 467
+      A.4.1 Selection Constructs . . . . . . . . . . . . . . . . . . . . . . 467
+      A.4.2 Repetition Constructs . . . . . . . . . . . . . . . . . . . . . 469
+      A.5 Collections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 472
+      A.5.1 Strings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 472
+      A.5.2 Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 473
+      A.5.3 Tuples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 475
+      A.5.4 Dictionaries . . . . . . . . . . . . . . . . . . . . . . . . . . . 475
+      A.6 Text Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 477
+      A.6.1 File Access . . . . . . . . . . . . . . . . . . . . . . . . . . . 477
+      A.6.2 Writing to Files . . . . . . . . . . . . . . . . . . . . . . . . . 478
+      A.6.3 Reading from Files . . . . . . . . . . . . . . . . . . . . . . . 479
+      A.7 User-Defined Functions . . . . . . . . . . . . . . . . . . . . . . . . 480
+      A.7.1 The Function Definition . . . . . . . . . . . . . . . . . . . . 480
+      A.7.2 Variable Scope . . . . . . . . . . . . . . . . . . . . . . . . . 483
+      A.7.3 Main Routine . . . . . . . . . . . . . . . . . . . . . . . . . . 483
+      Appendix B: User-Defined Modules 485
+      B.1 Structured Programs . . . . . . . . . . . . . . . . . . . . . . . . . . 485
+      B.2 Namespaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486
+      Appendix C: Exceptions 489
+      C.1 Catching Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . 489
+      C.2 Raising Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . . 490
+      C.3 Standard Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . 491
+      C.4 Assertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 491
+      Appendix D: Classes 493
+      D.1 The Class Definition . . . . . . . . . . . . . . . . . . . . . . . . . . 493
+      D.1.1 Constructors . . . . . . . . . . . . . . . . . . . . . . . . . . 494
+      D.1.2 Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . 495
+      D.1.3 Using Modules . . . . . . . . . . . . . . . . . . . . . . . . . 497
+      D.1.4 Hiding Attributes . . . . . . . . . . . . . . . . . . . . . . . . 498
+      D.2 Overloading Operators . . . . . . . . . . . . . . . . . . . . . . . . . 500
+      D.3 Inheritance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 502
+      D.3.1 Deriving Child Classes . . . . . . . . . . . . . . . . . . . . . 503
+      D.3.2 Creating Class Instances . . . . . . . . . . . . . . . . . . . 504
+      D.3.3 Invoking Methods . . . . . . . . . . . . . . . . . . . . . . . 505
+      D.4 Polymorphism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507
+
 -------
 
