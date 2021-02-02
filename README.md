@@ -5,6 +5,12 @@ Udacity-Intro_to_Algorithms
 
 -------
 
+## Lesson 1: A Social Network Magic Trick
+
+## Lesson 2: Problem Set 1
+
+
+
 
 
 -------
