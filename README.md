@@ -92,7 +92,8 @@ Designed to provide a comprehensive introduction to data structures and algorith
 
 
 
-      Chapter 1: Abstract Data Types 1
+### Chapter 1: Abstract Data Types 1
+
       1.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
       1.1.1 Abstractions . . . . . . . . . . . . . . . . . . . . . . . . . . 2
       1.1.2 Abstract Data Types . . . . . . . . . . . . . . . . . . . . . . 3
@@ -115,7 +116,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       1.5.2 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 26
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
-      Chapter 2: Arrays 33
+      
+### Chapter 2: Arrays 33
+
       2.1 The Array Structure . . . . . . . . . . . . . . . . . . . . . . . . . . 33
       2.1.1 Why Study Arrays? . . . . . . . . . . . . . . . . . . . . . . . 34
       2.1.2 The Array Abstract Data Type . . . . . . . . . . . . . . . . . 34
@@ -138,7 +141,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       2.5.3 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 61
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
-      Chapter 3: Sets and Maps 69
+      
+### Chapter 3: Sets and Maps 69
+
       3.1 Sets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
       3.1.1 The Set Abstract Data Type . . . . . . . . . . . . . . . . . . 70
       3.1.2 Selecting a Data Structure . . . . . . . . . . . . . . . . . . 72
@@ -154,7 +159,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       3.4 Application: Sales Reports . . . . . . . . . . . . . . . . . . . . . . 89
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
-      Chapter 4: Algorithm Analysis 97
+      
+### Chapter 4: Algorithm Analysis 97
+
       4.1 Complexity Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . 97
       4.1.1 Big-O Notation . . . . . . . . . . . . . . . . . . . . . . . . . 99
       4.1.2 Evaluating Python Code . . . . . . . . . . . . . . . . . . . . 104
@@ -166,7 +173,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       4.5.2 Efficiency Analysis . . . . . . . . . . . . . . . . . . . . . . . 120
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
-      Chapter 5: Searching and Sorting 125
+      
+### Chapter 5: Searching and Sorting 125
+
       5.1 Searching . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
       5.1.1 The Linear Search . . . . . . . . . . . . . . . . . . . . . . . 126
       5.1.2 The Binary Search . . . . . . . . . . . . . . . . . . . . . . . 128
@@ -182,7 +191,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       5.4.2 Comparing the Implementations . . . . . . . . . . . . . . . 152
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
-      Chapter 6: Linked Structures 155
+      
+### Chapter 6: Linked Structures 155
+
       6.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
       6.2 The Singly Linked List . . . . . . . . . . . . . . . . . . . . . . . . . 159
       6.2.1 Traversing the Nodes . . . . . . . . . . . . . . . . . . . . . 159
@@ -205,7 +216,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       6.6.3 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 181
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 189
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190
-      Chapter 7: Stacks 193
+      
+### Chapter 7: Stacks 193
+
       7.1 The Stack ADT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 193
       7.2 Implementing the Stack . . . . . . . . . . . . . . . . . . . . . . . . 195
       7.2.1 Using a Python List . . . . . . . . . . . . . . . . . . . . . . 195
@@ -220,7 +233,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       7.4.4 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 214
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 219
-      Chapter 8: Queues 221
+      
+### Chapter 8: Queues 221
+
       8.1 The Queue ADT . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
       8.2 Implementing the Queue . . . . . . . . . . . . . . . . . . . . . . . . 222
       8.2.1 Using a Python List . . . . . . . . . . . . . . . . . . . . . . 222
@@ -235,7 +250,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       8.4.2 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 239
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246
-      Chapter 9: Advanced Linked Lists 247
+      
+### Chapter 9: Advanced Linked Lists 247
+
       9.1 The Doubly Linked List . . . . . . . . . . . . . . . . . . . . . . . . . 247
       9.1.1 Organization . . . . . . . . . . . . . . . . . . . . . . . . . . 247
       9.1.2 List Operations . . . . . . . . . . . . . . . . . . . . . . . . . 248
@@ -252,7 +269,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       9.5.3 Implementation . . . . . . . . . . . . . . . . . . . . . . . . . 268
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 275
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 275
-      Chapter 10: Recursion 277
+      
+### Chapter 10: Recursion 277
+
       10.1 Recursive Functions . . . . . . . . . . . . . . . . . . . . . . . . . . 277
       10.2 Properties of Recursion . . . . . . . . . . . . . . . . . . . . . . . . 279
       10.2.1 Factorials . . . . . . . . . . . . . . . . . . . . . . . . . . . . 280
@@ -272,7 +291,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       10.5.2 Designing a Solution . . . . . . . . . . . . . . . . . . . . . . 303
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 307
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 308
-      Chapter 11: Hash Tables 309
+      
+### Chapter 11: Hash Tables 309
+
       11.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 309
       11.2 Hashing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 311
       11.2.1 Linear Probing . . . . . . . . . . . . . . . . . . . . . . . . . 312
@@ -287,7 +308,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       11.6.2 The Color Histogram . . . . . . . . . . . . . . . . . . . . . . 334
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 337
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 338
-      Chapter 12: Advanced Sorting 339
+      
+### Chapter 12: Advanced Sorting 339
+
       12.1 Merge Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 339
       12.1.1 Algorithm Description . . . . . . . . . . . . . . . . . . . . . 340
       12.1.2 Basic Implementation . . . . . . . . . . . . . . . . . . . . . 340
@@ -307,7 +330,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       12.5.2 Merge Sort . . . . . . . . . . . . . . . . . . . . . . . . . . . 362
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 367
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 368
-      Chapter 13: Binary Trees 369
+      
+### Chapter 13: Binary Trees 369
+
       13.1 The Tree Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . 369
       13.2 The Binary Tree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 373
       13.2.1 Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . 373
@@ -330,7 +355,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       13.6.2 The ADT Definition . . . . . . . . . . . . . . . . . . . . . . . 406
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 407
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410
-      Chapter 14: Search Trees 411
+      
+### Chapter 14: Search Trees 411
+
       14.1 The Binary Search Tree . . . . . . . . . . . . . . . . . . . . . . . . 412
       14.1.1 Searching . . . . . . . . . . . . . . . . . . . . . . . . . . . . 413
       14.1.2 Min and Max Values . . . . . . . . . . . . . . . . . . . . . . 415
@@ -348,7 +375,9 @@ Designed to provide a comprehensive introduction to data structures and algorith
       14.4.3 Efficiency of the 2-3 Tree . . . . . . . . . . . . . . . . . . . 449
       Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 451
       Programming Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 452
-      Appendix A: Python Review 453
+      
+### Appendix A: Python Review 453
+
       A.1 The Python Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . 453
       A.2 The Basics of Python . . . . . . . . . . . . . . . . . . . . . . . . . 454
       A.2.1 Primitive Types . . . . . . . . . . . . . . . . . . . . . . . . . 455
@@ -377,15 +406,21 @@ Designed to provide a comprehensive introduction to data structures and algorith
       A.7.1 The Function Definition . . . . . . . . . . . . . . . . . . . . 480
       A.7.2 Variable Scope . . . . . . . . . . . . . . . . . . . . . . . . . 483
       A.7.3 Main Routine . . . . . . . . . . . . . . . . . . . . . . . . . . 483
-      Appendix B: User-Defined Modules 485
+      
+### Appendix B: User-Defined Modules 485
+
       B.1 Structured Programs . . . . . . . . . . . . . . . . . . . . . . . . . . 485
       B.2 Namespaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486
-      Appendix C: Exceptions 489
+      
+### Appendix C: Exceptions 489
+
       C.1 Catching Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . 489
       C.2 Raising Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . . 490
       C.3 Standard Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . 491
       C.4 Assertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 491
-      Appendix D: Classes 493
+      
+### Appendix D: Classes 493
+
       D.1 The Class Definition . . . . . . . . . . . . . . . . . . . . . . . . . . 493
       D.1.1 Constructors . . . . . . . . . . . . . . . . . . . . . . . . . . 494
       D.1.2 Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . 495
