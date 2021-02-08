@@ -1,3 +1,11 @@
+# Udacity-Algorithms
+Udacity-Algorithms
+
+
+
+
+-------
+
 # Udacity-Intro_to_Algorithms
 Udacity-Intro_to_Algorithms
 
@@ -70,13 +78,69 @@ Interview with Tina Eliassi-Rad (Professor, Rutgers University) on statistical m
 
 Additional interviews with Andrew Goldberg (Microsoft Research), Vukosi Marivate (Rutgers University) and Duncan Watts (Microsoft).
 
+-------
+
+## Computability, Complexity & Algorithms
 
 
 
+### LESSON 1
+1. Languages & Countability
+
+### LESSON 2
+2. Turing Machines
+
+### LESSON 3
+3. Church-Turing Thesis
+
+### LESSON 4
+4. Universality
+
+### LESSON 5
+5. Undecidability
+
+### LESSON 6
+6. P and NP
+
+### LESSON 7
+7. NP - Completeness
+
+### LESSON 8
+8. NPC Problems
+
+### LESSON 9
+9. Dynamic Programming
+
+### LESSON 10
+10. FFT
+
+### LESSON 11
+11. Maximum Flow
+
+### LESSON 12
+12. BP Matching
+
+### LESSON 13
+13. Linear Programming
+
+### LESSON 14
+14. Duality
+
+### LESSON 15
+15. Approximation Algorithms
+
+### LESSON 16
+16. Randomized Algorithms
+
+### LESSON 17
+Assorted Exercises
 
 
 
 -------
+
+
+
 
 ## Data Structures and Algorithms Using Python
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
