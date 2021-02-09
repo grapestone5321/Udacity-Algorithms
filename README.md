@@ -80,7 +80,7 @@ Additional interviews with Andrew Goldberg (Microsoft Research), Vukosi Marivate
 
 -------
 
-## Computability, Complexity & Algorithms
+# Udacity-Computability, Complexity & Algorithms
 
 
 
@@ -142,7 +142,7 @@ Assorted Exercises
 
 
 
-## Data Structures and Algorithms Using Python
+# Data Structures and Algorithms Using Python
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
 ### Rance D. Necaise:
