@@ -231,6 +231,23 @@ Feel free to post in the forums if you have questions!
 
 - Next Steps
 
+-------
+
+
+## Introduction to Graduate Algorithms
+byGeorgia Institute of Technology
+
+Offered at Georgia Tech as CS 8803 GA
+
+This is a graduate-level course in the design and analysis of algorithms. 
+
+We study techniques for the design of algorithms (such as dynamic programming) and algorithms for fundamental problems (such as fast Fourier transform or FFT).
+
+In addition, we study computational intractability, specifically, the theory of NP-completeness. 
+
+The main topics covered in the course include: dynamic programming; divide and conquer, including FFT; randomized algorithms, including RSA cryptosystem and hashing using Bloom filters; graph algorithms; max-flow algorithms; linear programming; and NP-completeness.
+
+
 
 
 -------
