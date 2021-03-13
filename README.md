@@ -17,6 +17,8 @@ Udacity-Algorithms
 
 ## 1. Data Structures and Algorithms Using Python
 
+## 2. Introduction to High Performance Computing for Computational Scientists and Engineers
+
 -------
 
 ## 1. Udacity-Intro_to_Algorithms
@@ -647,4 +649,16 @@ Designed to provide a comprehensive introduction to data structures and algorith
       D.4 Polymorphism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507
 
 -------
+
+## 2. Introduction to High Performance Computing for Computational Scientists and Engineers
+by Georg Hager and Gerhard Wellein.
+
+ISBN: 978-1-4398-1192-4, CRC Press, 2010.
+
+http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_performance_computing_for_scientists_and_engineers.pdf
+
+
+
+-------
+
 
