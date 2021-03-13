@@ -13,11 +13,13 @@ Udacity-Algorithms
 
 ## 5. High Performance Computing
 
-# Others
+# Papers
 
 ## 1. Data Structures and Algorithms Using Python
 
 ## 2. Introduction to High Performance Computing for Computational Scientists and Engineers
+
+## 3. Introduction to Algorithms: Third Edition
 
 -------
 
@@ -656,6 +658,13 @@ by Georg Hager and Gerhard Wellein.
 ISBN: 978-1-4398-1192-4, CRC Press, 2010.
 
 http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_performance_computing_for_scientists_and_engineers.pdf
+
+-------
+
+## 3. Introduction to Algorithms
+Third Edition
+
+http://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf
 
 
 
