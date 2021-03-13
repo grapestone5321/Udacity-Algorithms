@@ -1,12 +1,19 @@
 # Udacity-Algorithms
 Udacity-Algorithms
 
+## 1. Udacity-Intro_to_Algorithms
 
+## 2. Udacity-Computability, Complexity & Algorithms
 
+## 3. Data Structures & Algorithms in Python
+
+## 4. Introduction to Graduate Algorithms
+
+## 5. Data Structures and Algorithms Using Python
 
 -------
 
-# Udacity-Intro_to_Algorithms
+## 1. Udacity-Intro_to_Algorithms
 Udacity-Intro_to_Algorithms
 
 
@@ -18,9 +25,6 @@ He works mainly in reinforcement learning, but has done work in machine learning
 
 He is currently a professor of computer science at Brown University.
 
--------
-
-## Syllabus
 
 ### LESSON 1: A Social Network Magic Trick
 
@@ -80,7 +84,7 @@ Additional interviews with Andrew Goldberg (Microsoft Research), Vukosi Marivate
 
 -------
 
-# Udacity-Computability, Complexity & Algorithms
+## 2. Udacity-Computability, Complexity & Algorithms
 
 ### LESSON 1
 1. Languages & Countability
@@ -137,7 +141,7 @@ Assorted Exercises
 
 -------
 
-# Data Structures & Algorithms in Python
+## 3. Data Structures & Algorithms in Python
 
 Below is the outline for this course—each section will include some mix of videos, text explanations, Python examples, and practice questions. 
 
@@ -234,7 +238,7 @@ Feel free to post in the forums if you have questions!
 -------
 
 
-## Introduction to Graduate Algorithms
+## 4. Introduction to Graduate Algorithms
 byGeorgia Institute of Technology
 
 Offered at Georgia Tech as CS 8803 GA
@@ -253,7 +257,7 @@ The main topics covered in the course include: dynamic programming; divide and c
 -------
 
 
-# Data Structures and Algorithms Using Python
+## 5. Data Structures and Algorithms Using Python
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
 ### Rance D. Necaise:
