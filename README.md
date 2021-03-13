@@ -1,15 +1,19 @@
 # Udacity-Algorithms
 Udacity-Algorithms
 
-## 1. Udacity-Intro_to_Algorithms
+# Udacity
 
-## 2. Udacity-Computability, Complexity & Algorithms
+## 1. Intro_to_Algorithms
+
+## 2. Computability, Complexity & Algorithms
 
 ## 3. Data Structures & Algorithms in Python
 
 ## 4. Introduction to Graduate Algorithms
 
-## 5. Data Structures and Algorithms Using Python
+# Others
+
+## 1. Data Structures and Algorithms Using Python
 
 -------
 
