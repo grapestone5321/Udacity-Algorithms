@@ -11,6 +11,8 @@ Udacity-Algorithms
 
 ## 4. Introduction to Graduate Algorithms
 
+## 5. High Performance Computing
+
 # Others
 
 ## 1. Data Structures and Algorithms Using Python
@@ -256,12 +258,40 @@ In addition, we study computational intractability, specifically, the theory of 
 The main topics covered in the course include: dynamic programming; divide and conquer, including FFT; randomized algorithms, including RSA cryptosystem and hashing using Bloom filters; graph algorithms; max-flow algorithms; linear programming; and NP-completeness.
 
 
+-------
 
+## 5. High Performance Computing
+byGeorgia Institute of Technology
+
+Offered at Georgia Tech as CS 6220
+
+The goal of this course is to give you solid foundations for developing, analyzing, and implementing parallel and locality-efficient algorithms. 
+
+This course focuses on theoretical underpinnings. 
+
+To give a practical feeling for how algorithms map to and behave on real systems, we will supplement algorithmic theory with hands-on exercises on modern HPC systems, such as Cilk Plus or OpenMP on shared memory nodes, CUDA for graphics co-processors (GPUs), and MPI and PGAS models for distributed memory systems.
+
+This course is a graduate-level introduction to scalable parallel algorithms. 
+
+"Scale" really refers to two things: efficient as the problem size grows, and efficient as the system size (measured in numbers of cores or compute nodes) grows. 
+
+To really scale your algorithm in both of these senses, you need to be smart about reducing asymptotic complexity the way you’ve done for sequential algorithms since CS 101; but you also need to think about reducing communication and data movement. 
+
+This course is about the basic algorithmic techniques you’ll need to do so.
+
+The techniques you’ll encounter covers the main algorithm design and analysis ideas for three major classes of machines: for multicore and many core shared memory machines, via the work-span model; for distributed memory machines like clusters and supercomputers, via network models; and for sequential or parallel machines with deep memory hierarchies (e.g., caches). 
+
+You will see these techniques applied to fundamental problems, like sorting, search on trees and graphs, and linear algebra, among others. 
+
+The practical aspect of this course is implementing the algorithms and techniques you’ll learn to run on real parallel and distributed systems, so you can check whether what appears to work well in theory also translates into practice. 
+
+(Programming models you’ll use include Cilk Plus, OpenMP, and MPI, and possibly others.)
 
 -------
 
+# Others
 
-## 5. Data Structures and Algorithms Using Python
+## 1. Data Structures and Algorithms Using Python
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
 ### Rance D. Necaise:
