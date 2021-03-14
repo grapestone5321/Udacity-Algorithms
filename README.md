@@ -16,6 +16,7 @@ Udacity-Algorithms
 # Papers
 
 ## 1. Data Structures and Algorithms Using Python
+http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
 ## 2. Introduction to High Performance Computing for Computational Scientists and Engineers
 
