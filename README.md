@@ -19,8 +19,13 @@ Udacity-Algorithms
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
 ## 2. Introduction to High Performance Computing for Computational Scientists and Engineers
+http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_performance_computing_for_scientists_and_engineers.pdf
 
 ## 3. Introduction to Algorithms: Third Edition
+http://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf
+
+
+
 
 -------
 
