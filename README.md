@@ -24,7 +24,8 @@ http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_perfor
 ## 3. Introduction to Algorithms: Third Edition
 http://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf
 
-
+## 4. Data Structures and Algorithms in Python
+http://index-of.es/Varios-2/Data%20Structures%20and%20Algorithms%20in%20Python.pdf
 
 
 -------
@@ -675,5 +676,13 @@ http://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).p
 
 
 -------
+
+## 4. Data Structures and Algorithms in Python
+http://index-of.es/Varios-2/Data%20Structures%20and%20Algorithms%20in%20Python.pdf
+
+
+
+-------
+
 
 
