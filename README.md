@@ -681,6 +681,20 @@ http://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).p
 http://index-of.es/Varios-2/Data%20Structures%20and%20Algorithms%20in%20Python.pdf
 
 
+### Michael T. Goodrich
+Department of Computer Science
+
+University of California, Irvine
+
+### Roberto Tamassia
+Department of Computer Science
+
+Brown University
+
+### Michael H. Goldwasser
+Department of Mathematics and Computer Science
+
+Saint Louis University
 
 -------
 
