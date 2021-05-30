@@ -31,6 +31,10 @@ http://index-of.es/Varios-2/Data%20Structures%20and%20Algorithms%20in%20Python.p
 ## 5. Kleinberg, Jon. Algorithm design / Jon Kleinberg, Éva Tardos
 https://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf
 
+
+## 5. Introduction to Algorithms, Third Edition
+https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
+
 -------
 
 ## 1. Udacity-Intro_to_Algorithms
