@@ -36,6 +36,8 @@ http://index-of.es/Varios-2/Data%20Structures%20and%20Algorithms%20in%20Python.p
 ## 5. Kleinberg, Jon. Algorithm design / Jon Kleinberg, Éva Tardos
 https://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf
 
+https://github.com/grapestone5321/Udacity-Algorithms/blob/main/docs/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf
+
 -------
 
 ## Comparative Analysis of C++ and Python in Termsof Memory and Time
