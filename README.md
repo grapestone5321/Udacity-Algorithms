@@ -66,6 +66,8 @@ Eulerian Path and Correctness of Na.
 
 Russian peasants algorithm and more.
 
+- Lesson 2: Problem set 1
+
 ### LESSON 3: Growth Rates in Social Networks
 
 Use mathematical tools to analyze how things are connected.
@@ -73,6 +75,10 @@ Use mathematical tools to analyze how things are connected.
 Chain, ring and grid networks.
 
 Big Theta and more.
+
+- Lesson 4: Problem set 2
+
+- Lesson 5: Problem set 2 solutions
 
 ### LESSON 6: Basic Graph Algorithms
 
@@ -82,6 +88,12 @@ Properties of social networks.
 
 Clustering coefficient and more.
 
+- Lesson 7: Problem set 3
+
+- Lesson 8: Problem set 3 solutions
+
+
+
 ### LESSON 9: It's Who You Know
 
 Learn to keep track of your best friends using heaps.
@@ -89,6 +101,11 @@ Learn to keep track of your best friends using heaps.
 Degree centrality.
 
 Top K Via Partitioning and more.
+
+- Lesson 10: Problem set 4
+
+- Lesson 11: Problem set 4 solutions
+
 
 ### LESSON 12: Strong and Weak Bonds
 
@@ -98,6 +115,8 @@ Make a tree and strength of connections.
 
 Weighted social networks and more.
 
+- Lesson 13: Problem set 5
+
 ### LESSON 14: Hardness of Network Problems
 
 Explore what it means for a social network problem to be "harder" than other.
@@ -105,6 +124,8 @@ Explore what it means for a social network problem to be "harder" than other.
 Tetristan and Exponential Running Time
 
 Degrees of hardness and more.
+
+- Lesson 15: Problem set 6
 
 ### LESSON ++: Review and Application
 
