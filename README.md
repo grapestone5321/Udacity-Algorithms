@@ -1,18 +1,26 @@
 # Udacity-Algorithms
 Udacity-Algorithms
 
+-------
 
 # Udacity
 
 ## 1. Intro_to_Algorithms
+https://classroom.udacity.com/courses/cs215
 
 ## 2. Computability, Complexity & Algorithms
+https://classroom.udacity.com/courses/ud061
 
 ## 3. Data Structures & Algorithms in Python
+https://classroom.udacity.com/courses/ud513
 
 ## 4. Introduction to Graduate Algorithms
+https://classroom.udacity.com/courses/ud401
 
 ## 5. High Performance Computing
+https://classroom.udacity.com/courses/ud281
+
+-------
 
 # Papers
 
