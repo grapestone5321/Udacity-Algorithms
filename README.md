@@ -149,56 +149,39 @@ Additional interviews with Andrew Goldberg (Microsoft Research), Vukosi Marivate
 ## 2. Udacity-Computability, Complexity & Algorithms
 https://classroom.udacity.com/courses/ud061
 
-### LESSON 1
-1. Languages & Countability
+### LESSON 1: Languages & Countability
 
-### LESSON 2
-2. Turing Machines
+### LESSON 2: Turing Machines
 
-### LESSON 3
-3. Church-Turing Thesis
+### LESSON 3: Church-Turing Thesis
 
-### LESSON 4
-4. Universality
+### LESSON 4: Universality
 
-### LESSON 5
-5. Undecidability
+### LESSON 5: Undecidability
 
-### LESSON 6
-6. P and NP
+### LESSON 6: P and NP
 
-### LESSON 7
-7. NP - Completeness
+### LESSON 7: NP - Completeness
 
-### LESSON 8
-8. NPC Problems
+### LESSON 8: NPC Problems
 
-### LESSON 9
-9. Dynamic Programming
+### LESSON 9: Dynamic Programming
 
-### LESSON 10
-10. FFT
+### LESSON 10: FFT
 
-### LESSON 11
-11. Maximum Flow
+### LESSON 11: Maximum Flow
 
-### LESSON 12
-12. BP Matching
+### LESSON 12: BP Matching
 
-### LESSON 13
-13. Linear Programming
+### LESSON 13: Linear Programming
 
-### LESSON 14
-14. Duality
+### LESSON 14: Duality
 
-### LESSON 15
-15. Approximation Algorithms
+### LESSON 15: Approximation Algorithms
 
-### LESSON 16
-16. Randomized Algorithms
+### LESSON 16: Randomized Algorithms
 
-### LESSON 17
-Assorted Exercises
+### LESSON 17: Assorted Exercises
 
 
 
@@ -214,7 +197,7 @@ The mix of formats will keep each bit of information interesting and digestible.
 
 Feel free to post in the forums if you have questions!
 
-### 1. Introduction and Efficiency
+### 1: Introduction and Efficiency
 
 - Course Introduction
 
@@ -224,7 +207,7 @@ Feel free to post in the forums if you have questions!
 
 - Notation of Efficiency
 
-### 2. List-Based Collections
+### 2: List-Based Collections
 
 - Lists/Arrays
 
@@ -234,7 +217,7 @@ Feel free to post in the forums if you have questions!
 
 - Queues
 
-### 3. Searching and Sorting
+### 3: Searching and Sorting
 
 - Binary Search
 
@@ -246,7 +229,7 @@ Feel free to post in the forums if you have questions!
 
 - Quick Sort
 
-### 4. Maps and Hashing
+### 4: Maps and Hashing
 
 - Maps
 
@@ -258,7 +241,7 @@ Feel free to post in the forums if you have questions!
 
 - Trees
 
-### 5. Trees
+### 5: Trees
 
 - Tree Traversal
 
@@ -270,7 +253,7 @@ Feel free to post in the forums if you have questions!
 
 - Self-Balancing Trees
 
-### 6. Graphs
+### 6: Graphs
 
 - Graphs
 
@@ -282,7 +265,7 @@ Feel free to post in the forums if you have questions!
 
 - Graph Paths
 
-### 7. Case Studies in Algorithms
+### 7: Case Studies in Algorithms
 
 - Shortest Path Problem
 
@@ -290,7 +273,7 @@ Feel free to post in the forums if you have questions!
 
 - Traveling Salesman Problem
 
-### 8. Technical Interview Tips
+### 8: Technical Interview Tips
 
 - Mock Interview Breakdown
 
