@@ -56,6 +56,7 @@ https://github.com/grapestone5321/Udacity-Algorithms/blob/main/docs/Algorithm%20
 ## 1. Udacity-Intro_to_Algorithms
 Udacity-Intro_to_Algorithms
 
+https://classroom.udacity.com/courses/cs215
 
 ## Instructor: Michael Littman
 
@@ -146,6 +147,7 @@ Additional interviews with Andrew Goldberg (Microsoft Research), Vukosi Marivate
 -------
 
 ## 2. Udacity-Computability, Complexity & Algorithms
+https://classroom.udacity.com/courses/ud061
 
 ### LESSON 1
 1. Languages & Countability
@@ -203,6 +205,8 @@ Assorted Exercises
 -------
 
 ## 3. Data Structures & Algorithms in Python
+https://classroom.udacity.com/courses/ud513
+
 
 Below is the outline for this course—each section will include some mix of videos, text explanations, Python examples, and practice questions. 
 
@@ -300,7 +304,9 @@ Feel free to post in the forums if you have questions!
 
 
 ## 4. Introduction to Graduate Algorithms
-byGeorgia Institute of Technology
+https://classroom.udacity.com/courses/ud401
+
+by Georgia Institute of Technology
 
 Offered at Georgia Tech as CS 8803 GA
 
@@ -313,10 +319,134 @@ In addition, we study computational intractability, specifically, the theory of 
 The main topics covered in the course include: dynamic programming; divide and conquer, including FFT; randomized algorithms, including RSA cryptosystem and hashing using Bloom filters; graph algorithms; max-flow algorithms; linear programming; and NP-completeness.
 
 
+
+### LESSON 1: Introduction to Graduate Algorithms
+Overview of main topics covered, course webpage available at: https://gt-algorithms.com
+
+
+### LESSON 2: DP1: FIB, LIS, LCS
+Dynamic programming: Toy problem (Fibonacci numbers), Longest Increasing Subsequence (LIS), and Longest Common Subsequence (LCS).
+
+
+### LESSON 3: DP2: Knapsack, Chain Multiply
+Dynamic programming: Knapsack, and Chain Matrix Multiplication.
+
+### LESSON 4: DP3: Shortest Paths
+Dynamic programming algorithms for solving various shortest path problems on graphs.
+
+
+### LESSON 5: RA1: Modular Arithmetic
+Modular Arithmetic: Fast Modular Exponentiation and Multiplicative Inverses.
+
+
+### LESSON 6: RA2: RSA
+RSA Cryptosystem: Fermat's Little Theorem, RSA Protocol, and Primality Testing.
+
+
+### LESSON 7: RA3: Bloom Filters
+Lecture about Hashing: Toy problem of Balls into Bins, Traditional Chain Hashing, and Bloom Filters.
+
+
+### LESSON 8: DC1: Fast Integer Multiplication
+Faster Divide-and-Conquer Algorithm for Multiplying Large Integers.
+
+
+### LESSON 9: DC2: Linear-Time Median
+Linear-time Divide-and-Conquer Algorithm for Finding the Median from an unsorted list.
+
+
+### LESSON 10: DC3: Solving Recurrences
+Refresher Lecture about Solving Recurrences.
+
+
+### LESSON 11: DC4: FFT - Part 1
+High-level approach for polynomial multiplication and FFT (Fast Fourier Transform). Primer on complex numbers, including complex roots of unity.
+
+
+### LESSON 12: DC5: FFT - Part 2
+FFT and polynomial multiplication algorithms, and inverse FFT.
+
+
+### LESSON 13: GR1: Strongly Connected Components
+Connectivity: Connected components of undirected graphs, Topological sorting of a DAG, and strongly connected components of general directed graphs.
+
+
+### LESSON 14: GR2: 2-Satisfiability
+Polynomial-time algorithm for 2-SAT, using the SCC algorithm.
+
+
+### LESSON 15: GR3: Minimum Spanning Tree
+Minimum Spanning Tree (MST): Cut Property for MST's, and Kruskal's MST algorithm.
+
+
+### LESSON 16: GR4: Markov Chains and PageRank
+Introduction to Markov Chains, and an exposition of the PageRank algorithm.
+
+
+### LESSON 17: MF1: Ford-Fulkerson Algorithm
+Max-flow: Problem statement, residual network, and Ford-Fulkerson algorithm.
+
+
+### LESSON 18: MF2: Max-Flow Min-Cut
+Max-Flow Min-Cut Theorem: Statement and Proof, and proof of correctness of Ford-Fulkerson and Edmonds-Karp augmenting path algorithms.
+
+
+### LESSON 19: MF3: Image Segmentation
+Max-flow: Application to Image Segmentation problem.
+
+
+### LESSON 20: MF4: Edmonds-Karp Algorithm
+Max-flow: Edmonds-Karp augmenting path algorithm.
+
+
+### LESSON 21: MF5: Max-Flow Generalization
+Max-flow: Generalization allowing demand constraints.
+
+
+### LESSON 22: LP1: Linear Programming
+Linear Programming: Basics, Standard Form, and Simplex Algorithm Overview
+
+
+### LESSON 23: LP2: Geometry
+Geometry of Linear Programs: Feasible Region, Infeasible LP's, and Unbounded LP's.
+
+
+### LESSON 24: LP3: Duality
+Dual of a Linear Program; Converting an LP problem to its Dual; Weak and Strong Duality.
+
+
+### LESSON 25: LP4: Max-SAT Approximation
+Maximum Satisfiability Problem; Approximate Solutions; Integer Programming; Calculus.
+
+
+### LESSON 26: NP1: Definitions
+NP: Definition of a Search Problem and Computational Complexity Classes P and NP; Proving a Problem is in NP; Reductions; and the notion of NP-Completeness
+
+
+### LESSON 27: NP2: 3SAT
+3-SAT Problem is NP-Complete
+
+
+### LESSON 28: NP3: Graph Problems
+NP-Completeness of Graph Problems: Independent Sets, Clique, and Vertex Cover
+
+
+### LESSON 29: NP4: Knapsack
+Knapsack and Subset Sum Problems are NP-Complete
+
+
+### LESSON 30: NP5: Halting Problem
+Halting Problem is Undecidable
+
+
+
 -------
 
 ## 5. High Performance Computing
-byGeorgia Institute of Technology
+https://classroom.udacity.com/courses/ud281
+
+
+by Georgia Institute of Technology
 
 Offered at Georgia Tech as CS 6220
 
@@ -341,6 +471,51 @@ You will see these techniques applied to fundamental problems, like sorting, sea
 The practical aspect of this course is implementing the algorithms and techniques you’ll learn to run on real parallel and distributed systems, so you can check whether what appears to work well in theory also translates into practice. 
 
 (Programming models you’ll use include Cilk Plus, OpenMP, and MPI, and possibly others.)
+
+
+
+### LESSON 1: Course Information
+
+### LESSON 2: Introduction to High Performance Computing
+
+### LESSON 3: Intro to the Work-Span Model
+
+### LESSON 4: Intro to OpenMP
+
+### LESSON 5: Comparison-based Sorting
+
+### LESSON 6: Scans and List Ranking
+
+### LESSON 7: Tree Computations
+
+### LESSON 8: Shared Memory Parallel BFS
+
+### LESSON 9: Sample Midterm
+
+### LESSON 10: Intro to Dist. Memory Models
+
+### LESSON 11: Intro to MPI
+
+### LESSON 12: Topology
+
+### LESSON 13: Dist. Dense Matrix Multiply
+
+### LESSON 14: Dist. Memory Sorting
+
+### LESSON 15: Distributed BFS
+
+### LESSON 16: Graph Partitioning
+
+### LESSON 17: Basic Model of Locality
+
+### LESSON 18: Algorithmic Time, Energy and Power
+
+### LESSON 19: I/O-Avoiding Algorithms
+
+### LESSON 20: Cache-Oblivious Algorithms
+
+### LESSON 21: Conclusion
+
 
 -------
 
