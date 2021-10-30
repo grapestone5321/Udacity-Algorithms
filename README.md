@@ -53,12 +53,13 @@ https://github.com/grapestone5321/Udacity-Algorithms/blob/main/docs/Algorithm%20
 
 -------
 
-## 1. Udacity-Intro_to_Algorithms
-Udacity-Intro_to_Algorithms
+## Udacity:
+
+## 1. Intro_to_Algorithms
 
 https://classroom.udacity.com/courses/cs215
 
-## Instructor: Michael Littman
+-  Instructor: Michael Littman
 
 Michael Lederman Littman (born August 30, 1966) is a computer scientist. 
 
