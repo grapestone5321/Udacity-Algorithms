@@ -191,6 +191,7 @@ https://classroom.udacity.com/courses/ud061
 ## 3. Data Structures & Algorithms in Python
 https://classroom.udacity.com/courses/ud513
 
+I hope you're ready to get started! 
 
 Below is the outline for this course—each section will include some mix of videos, text explanations, Python examples, and practice questions. 
 
