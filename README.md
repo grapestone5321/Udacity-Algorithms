@@ -275,6 +275,15 @@ Feel free to post in the forums if you have questions!
 
 - Traveling Salesman Problem
 
+       1. Case Study Introduction
+       2. Shortest Path Problem
+       3. Dijkstra's Algorithm
+       4. Knapsack Problem
+       5. A Faster Algorithm
+       6. Dynamic Programming
+       7. Traveling Salesman Problem
+       8. Exact and Approximate Algorithms
+
 ### 8: Technical Interview Tips
 
 - Mock Interview Breakdown
