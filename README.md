@@ -294,6 +294,16 @@ Feel free to post in the forums if you have questions!
 
 - Next Steps
 
+      1. Clarifying the Question
+      2. Confirming Inputs; Generating Inputs & Outputs
+      3. Test Cases; Generating Test Cases
+      4. Brainstorming
+      5. Runtime Analysis
+      6. Coding
+      7. Debugging
+
+
+
 -------
 
 
