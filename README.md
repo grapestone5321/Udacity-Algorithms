@@ -24,26 +24,31 @@ https://classroom.udacity.com/courses/ud281
 
 # Papers
 
-## 1. Data Structures and Algorithms Using Python
-http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
+## 1. Kleinberg, Jon. Algorithm design / Jon Kleinberg, Éva Tardos
 
-## 2. Introduction to High Performance Computing for Computational Scientists and Engineers
-http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_performance_computing_for_scientists_and_engineers.pdf
+https://www.cs.mcgill.ca/~lhamba/comp360/AlgorithmDesign.pdf
 
-## 3. Introduction to Algorithms: Third Edition
+
+https://github.com/grapestone5321/Udacity-Algorithms/blob/main/docs/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf
+
+## 2. Introduction to Algorithms: Third Edition
 http://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf
 
 https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
 
 
-
-## 4. Data Structures and Algorithms in Python
+## 3. Data Structures and Algorithms in Python
 http://index-of.es/Varios-2/Data%20Structures%20and%20Algorithms%20in%20Python.pdf
 
-## 5. Kleinberg, Jon. Algorithm design / Jon Kleinberg, Éva Tardos
-https://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf
 
-https://github.com/grapestone5321/Udacity-Algorithms/blob/main/docs/Algorithm%20Design%20by%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf
+## 4. Data Structures and Algorithms Using Python
+http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
+
+## 5. Introduction to High Performance Computing for Computational Scientists and Engineers
+http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_performance_computing_for_scientists_and_engineers.pdf
+
+
+
 
 -------
 
