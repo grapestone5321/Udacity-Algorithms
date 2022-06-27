@@ -45,6 +45,8 @@ http://index-of.es/Varios-2/Data%20Structures%20and%20Algorithms%20in%20Python.p
 ## 4. Data Structures and Algorithms Using Python
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
+https://docs.google.com/viewer?a=v&pid=sites&srcid=dnVrbWFsYmFzYS5jb218d3d3fGd4OjU3NWZjOWU1MTM4ZTI4OQ
+
 ## 5. Introduction to High Performance Computing for Computational Scientists and Engineers
 http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_performance_computing_for_scientists_and_engineers.pdf
 
