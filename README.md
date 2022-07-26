@@ -61,6 +61,10 @@ http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_perfor
 
 # YouTube
 
+
+## CRACKING the CODING INTERVIEW
+https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL
+
 ## Data Structures - Full Course Using C and C++
 https://www.youtube.com/watch?v=B31LgI4Y4DQ
 
