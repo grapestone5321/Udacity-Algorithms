@@ -88,7 +88,7 @@ He works mainly in reinforcement learning, but has done work in machine learning
 He is currently a professor of computer science at Brown University.
 
 
-### LESSON 1: A Social Network Magic Trick
+## LESSON 1: A Social Network Magic Trick
 
 Become familiar with algorithm analysis.
 
@@ -96,9 +96,9 @@ Eulerian Path and Correctness of Na.
 
 Russian peasants algorithm and more.
 
-- Lesson 2: Problem set 1
+### Lesson 2: Problem set 1
 
-### LESSON 3: Growth Rates in Social Networks
+## LESSON 3: Growth Rates in Social Networks
 
 Use mathematical tools to analyze how things are connected.
 
@@ -110,7 +110,7 @@ Big Theta and more.
 
 - Lesson 5: Problem set 2 solutions
 
-### LESSON 6: Basic Graph Algorithms
+## LESSON 6: Basic Graph Algorithms
 
 Find the quickest route to Kevin Bacon.
 
@@ -124,7 +124,7 @@ Clustering coefficient and more.
 
 
 
-### LESSON 9: It's Who You Know
+## LESSON 9: It's Who You Know
 
 Learn to keep track of your best friends using heaps.
 
@@ -137,7 +137,7 @@ Top K Via Partitioning and more.
 - Lesson 11: Problem set 4 solutions
 
 
-### LESSON 12: Strong and Weak Bonds
+## LESSON 12: Strong and Weak Bonds
 
 Work with social networks that have edge weights.
 
@@ -147,7 +147,7 @@ Weighted social networks and more.
 
 - Lesson 13: Problem set 5
 
-### LESSON 14: Hardness of Network Problems
+## LESSON 14: Hardness of Network Problems
 
 Explore what it means for a social network problem to be "harder" than other.
 
@@ -157,7 +157,7 @@ Degrees of hardness and more.
 
 - Lesson 15: Problem set 6
 
-### LESSON ++: Review and Application
+## LESSON ++: Review and Application
 
 Interview with Peter Winker (Professor, Dartmouth College) on names and boxes problem and puzzles and algorithms.
 
