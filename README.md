@@ -1,8 +1,6 @@
 # Udacity-Algorithms
 Udacity-Algorithms
 
-
-
 -------
 
 # Udacity
