@@ -3,8 +3,6 @@ Udacity-Algorithms
 
 
 
-
-
 -------
 
 # Udacity
